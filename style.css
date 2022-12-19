@@ -29,46 +29,46 @@
     margin-left: 20px;
 }
 
-#glavnaya
+.glavnaya
 {
     margin-left: 230px;
     text-decoration: none;
 }
-#glavnaya:visited
+.glavnaya:visited
 {
     color:rgb(43, 42, 42);
 }
-#glavnaya:hover
+.glavnaya:hover
 {
     color: #827481;
     transition: 1s;
 }
 
-#contacts
+.contacts
 {
     margin-left: 380px;
     text-decoration: none;
 }
-#contacts:visited
+.contacts:visited
 {
     color:rgb(43, 42, 42);
 }
-#contacts:hover
+.contacts:hover
 {
     color: #827481;
     transition: 1s;
 }
 
-#aboutus
+.aboutus
 {
     margin-left: 410px;
     text-decoration: none;
 }
-#aboutus:visited
+.aboutus:visited
 {
     color:rgb(43, 42, 42);
 }
-#aboutus:hover
+.aboutus:hover
 {
     color: #827481;
     transition: 1s;
