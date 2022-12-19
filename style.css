@@ -33,7 +33,6 @@
 {
     margin-left: 230px;
     text-decoration: none;
-    transition: 1s;
 }
 #glavnaya:visited
 {
@@ -42,13 +41,13 @@
 #glavnaya:hover
 {
     color: #827481;
+    transition: 1s;
 }
 
 #contacts
 {
     margin-left: 380px;
     text-decoration: none;
-    transition: 1s;
 }
 #contacts:visited
 {
@@ -57,13 +56,13 @@
 #contacts:hover
 {
     color: #827481;
+    transition: 1s;
 }
 
 #aboutus
 {
     margin-left: 410px;
     text-decoration: none;
-    transition: 1s;
 }
 #aboutus:visited
 {
@@ -72,6 +71,7 @@
 #aboutus:hover
 {
     color: #827481;
+    transition: 1s;
 }
 
 .tree
